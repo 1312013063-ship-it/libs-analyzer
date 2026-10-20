@@ -1,0 +1,7 @@
+# Libs通用测试软件 运行依赖（Python 3.8+，Windows 推荐 Anaconda3）
+PyQt5>=5.15
+matplotlib>=3.5
+numpy>=1.22
+scipy>=1.8
+networkx>=2.6
+openpyxl>=3.0
