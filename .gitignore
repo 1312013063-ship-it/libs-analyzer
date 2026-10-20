@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行数据（测试记录/定标/牌号/方法/报告/截图）
+data/
+_selfcheck/*.png
+_selfcheck/*.html
+_selfcheck/*.xlsx
+_selfcheck/*.log
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
